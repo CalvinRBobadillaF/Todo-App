@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/css/main.eae5aa4d.css",
-    "main.js": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/js/main.2caf8f36.js",
-    "static/media/moon.png": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/media/moon.9231ac4a50b76d492e7a.png",
-    "static/media/sun.png": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/media/sun.e13942d45d11e8a07f13.png",
-    "index.html": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/index.html",
-    "static/media/delete.svg": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "main.eae5aa4d.css.map": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/css/main.eae5aa4d.css.map",
-    "main.2caf8f36.js.map": "/Users/punto%20laptop/OneDrive/Desktop/REACT/curso-react-intro/build/static/js/main.2caf8f36.js.map"
+    "main.css": "/Todo-App/static/css/main.eae5aa4d.css",
+    "main.js": "/Todo-App/static/js/main.65434d15.js",
+    "static/media/moon.png": "/Todo-App/static/media/moon.9231ac4a50b76d492e7a.png",
+    "static/media/sun.png": "/Todo-App/static/media/sun.e13942d45d11e8a07f13.png",
+    "index.html": "/Todo-App/index.html",
+    "static/media/delete.svg": "/Todo-App/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "main.eae5aa4d.css.map": "/Todo-App/static/css/main.eae5aa4d.css.map",
+    "main.65434d15.js.map": "/Todo-App/static/js/main.65434d15.js.map"
   },
   "entrypoints": [
     "static/css/main.eae5aa4d.css",
-    "static/js/main.2caf8f36.js"
+    "static/js/main.65434d15.js"
   ]
 }
