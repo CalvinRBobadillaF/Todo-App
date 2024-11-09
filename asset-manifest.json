@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CalvinRBobadillaF/Todo-App/static/css/main.eae5aa4d.css",
+    "main.js": "/CalvinRBobadillaF/Todo-App/static/js/main.ad049074.js",
+    "static/media/moon.png": "/CalvinRBobadillaF/Todo-App/static/media/moon.9231ac4a50b76d492e7a.png",
+    "static/media/sun.png": "/CalvinRBobadillaF/Todo-App/static/media/sun.e13942d45d11e8a07f13.png",
+    "index.html": "/CalvinRBobadillaF/Todo-App/index.html",
+    "static/media/delete.svg": "/CalvinRBobadillaF/Todo-App/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "main.eae5aa4d.css.map": "/CalvinRBobadillaF/Todo-App/static/css/main.eae5aa4d.css.map",
+    "main.ad049074.js.map": "/CalvinRBobadillaF/Todo-App/static/js/main.ad049074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae5aa4d.css",
+    "static/js/main.ad049074.js"
+  ]
+}
